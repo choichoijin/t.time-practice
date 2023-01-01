@@ -45,7 +45,7 @@ export default MyResult;
 
 const StResultCard = styled.div`
   width: 300px;
-  height: 500px;
+  height: 2000px;
   margin-top: 50px;
   background-color: #fbf7ed;
 `;
